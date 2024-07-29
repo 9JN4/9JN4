@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm Jérémy Nantel, an enthusiastic web developer
         JavaScript (ES6+)
         React / React Native
         VueJS
+        EJS
         jQuery
 
     Back-End:
