@@ -1,5 +1,5 @@
 Welcome to my GitHub profile! I'm Jérémy Nantel, an enthusiastic web developer with a passion for creating innovative projects. I specialize in both front-end and back-end development, and I love working with modern web technologies.
-Interests
+
 
     Web Development
 
