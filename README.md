@@ -3,8 +3,6 @@ Welcome to my GitHub profile! I'm Jérémy Nantel, an enthusiastic web developer
 
     Web Development
 
-Current Work
-
 I’m currently working with:
 
     React-Native
@@ -22,7 +20,7 @@ I’m looking to collaborate on web development projects. Let's connect! I'm alw
 
 Feel free to reach out to me:
 
-    Email: jeremy1994nantel@gmail.com
+     jeremy1994nantel@gmail.com
 
 Technologies & Tools
  Front-End:
