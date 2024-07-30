@@ -1,6 +1,6 @@
 -  Hi, I’m Jérémy Nantel
 -  I’m interested in web developpement 
--  I’m currently learning React-Native - nodeJS - REST/FULL API - mongoDB - SQL - Vuejs - JQuery.
+-  I’m currently working with React-Native - nodeJS - REST/FULL API - mongoDB - SQL - Vuejs - JQuery.
 -  I’m looking to collaborate on web development projects.
 -  Let's Connect, I'm always open to discussing new projects, opportunities, and collaborations. Feel free to reach out to me:
 
