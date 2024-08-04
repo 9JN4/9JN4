@@ -6,6 +6,8 @@ Welcome to my GitHub profile! I'm Jérémy Nantel, an enthusiastic web developer
 I’m currently working with:
 
     React-Native
+    TypeScript
+    JavaScript
     NodeJS
     REST/FULL API
     MongoDB
@@ -25,7 +27,9 @@ Feel free to reach out to me:
 Technologies & Tools
  Front-End:
 
-    HTML5, CSS3
+    HTML5
+    CSS3
+    TypeScript
     JavaScript (ES6+)
     React / React Native
     VueJS
