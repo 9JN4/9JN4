@@ -22,7 +22,7 @@ I’m looking to collaborate on web development projects. Let's connect! I'm alw
 
 Feel free to reach out to me:
 
-     jeremy1994nantel@gmail.com
+    jeremy1994nantel@gmail.com
 
 Technologies & Tools
  Front-End:
