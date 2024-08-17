@@ -1,5 +1,4 @@
-Welcome to my GitHub profile! I'm Jérémy Nantel, an enthusiastic web developer with a passion for creating innovative projects. I specialize in both front-end and back-end development, and I love working with modern web technologies.
-
+Welcome to my GitHub profile! I'm Jérémy Nantel, a web developer with experience in both front-end and back-end development. I enjoy working with modern web technologies and am always eager to take on new challenges.
 
     Web Development
 
@@ -15,11 +14,12 @@ I’m currently working with:
     VueJS
     jQuery
     Express
+    MongoDb
+    Mongoose
     Tailwind CSS / Bootstrap
 
 
-I’m looking to collaborate on web development projects. Let's connect! I'm always open to discussing new projects, opportunities, and collaborations.
-
+I'm interested in collaborating on web development projects. Feel free to reach out to discuss projects or opportunities.
 
 Feel free to reach out to me:
 
@@ -67,4 +67,4 @@ Development Environments:
     JWT 
     NPM 
 
- Thank you for visiting my GitHub profile! 
+Thank you for visiting my GitHub. Feel free to connect!
