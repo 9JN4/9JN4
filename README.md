@@ -15,6 +15,7 @@ I’m currently working with:
     VueJS
     jQuery
     Express
+    Tailwind CSS / Bootstrap
 
 
 I’m looking to collaborate on web development projects. Let's connect! I'm always open to discussing new projects, opportunities, and collaborations.
@@ -35,20 +36,24 @@ Technologies & Tools
     VueJS
     EJS
     jQuery
+    Tailwind CSS / Bootstrap
 
    Back-End:
 
     NodeJS
     Express
-
+    bcrypt
+    
 Databases:
 
     SQL / NoSQL
+    PostgreSQL 
     sqlite
     MySQL
     Workbench
     Access
     MongoDB
+    mongoose
 
 Version Control:
 
@@ -59,5 +64,7 @@ Development Environments:
 
     Visual Studio Code
     Android Studio
+    JWT 
+    NPM 
 
  Thank you for visiting my GitHub profile! 
